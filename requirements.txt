@@ -1,0 +1,6 @@
+awscli
+boto3
+pypdf
+langchain
+streamlit
+faiss-cpu
